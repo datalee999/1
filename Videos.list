@@ -1,3 +1,17 @@
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,blockchain.com
+
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,4kvm.me
+DOMAIN-SUFFIX,4kvm.tv
+DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,4kvm.pro
+DOMAIN-SUFFIX,4kvm.net
+DOMAIN-SUFFIX,4kvm.com
+DOMAIN-SUFFIX,pipiysb.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,olevod
